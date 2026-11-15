@@ -1,10 +1,6 @@
 # ⚡ Real-Time Order Processing Pipeline using Azure Event Hub + Databricks + Delta Lake
 This project demonstrates an end-to-end real-time streaming ETL pipeline built on Azure Databricks, using Azure Event Hub as the source, and processed through Bronze → Silver → Gold architecture with Structured Streaming and Delta Lake.
 
-| Developed By | LastUpdatedBy | Youtube Channel Name |
-|---------------|-------------|-----------------------|
-| Vignesan Saravanan   | 04-07-2025   | vijaquick    |
-
 # Architecture
 ![Real-Time Streaming Architecture](https://raw.githubusercontent.com/malvik01/Real-Time-Streaming-with-Azure-Databricks/main/Azure%20Solution%20Architecture.png)
 Azure Event Hub (Order Events) 
